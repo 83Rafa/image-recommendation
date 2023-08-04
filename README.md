@@ -2,7 +2,7 @@
 <br>
 <div align='justify'>
 	<p>Um sistema simple de recomendação baseados na aparência do produto. Para um dado produto, obtém-se uma quantidade pré-definida de outros produtos similares</p>
-	<p>É um sistema parecido com essas que vêmos em buscadores ou em mídias sociais.</p> 
+	<p>É um sistema parecido com essas que vemos em buscadores ou em mídias sociais.</p> 
 	<p>À partir do que fazemos uma perquisa o sistema nos mostra também podutos similares que talvez sejam de nosso interesse.</p>
 	<p>Para isso foi usado uma modelo CNN (Rede Neural Convolucional) pré-treinado do Keras para extrair features das imagens. Então são calculadas as similaridades entre produtos.</p>
 	<p>Nesse projeto foi usado o modelo VGG16 do <a href='https://www.image-net.org/'>imagenet</a>.</p>
